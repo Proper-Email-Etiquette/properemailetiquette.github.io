@@ -10,6 +10,8 @@ show_call_box: false
 
 # Proper Email Etiquette
 
-Email is an essential part of our daily communication, but are you using it correctly? 
+Email is an essential part of our daily communication, but are you using it correctly?
 
-Improper email etiquette can lead to confusion, misunderstandings, and even damage your professional image. In this article, we will discuss some simple tips and techniques to help you send emails properly and effectively.
+Improper email etiquette can lead to confusion, misunderstandings, and even damage your professional image.
+
+On this site, we publish simple tips and techniques to help you send emails properly and effectively.
