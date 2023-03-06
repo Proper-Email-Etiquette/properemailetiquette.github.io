@@ -4,81 +4,57 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Write brief emails that are easy to read and avoid rambling or unnecessary details.
+The Importance of Writing Effective Emails
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+As communication technology advances, email continues to be one of the most commonly used methods of communication for both personal and professional settings. However, despite the convenience and efficiency of email, many people struggle with crafting effective and impactful messages that convey their message clearly and concisely. In this article, we'll discuss the importance of keeping emails short and concise, and provide practical tips for writing effective emails that engage and inform your readers.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Why Keep Emails Short and Concise?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Attention Span: People have limited attention spans, and are more likely to quickly lose interest in lengthy and convoluted messages.
+Clarity: When you keep your emails short and to the point, your message is more likely to be understood and acted upon by the reader.
+Time Management: In a fast-paced world, everyone values their time, and concise emails help to respect that by allowing the recipient to quickly read and respond to your message.
 
-## Relevance
+## Tips for Writing Effective Emails
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+### 1. Use a Clear and Direct Subject Line
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+The subject line is the first thing your reader sees, and it sets the tone for the rest of your email. A clear and direct subject line helps your reader quickly understand what the email is about, and encourages them to open and read your message.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### 2. Start with a Personalized Greeting
 
-## Faithful Representation
+Using a personalized greeting shows that you value the recipient as an individual, and not just another name on your mailing list. Addressing the recipient by name is ideal, but if that's not possible, try to use a general greeting that doesn't sound too impersonal.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+### 3. Keep Your Message Short and to the Point
 
-## Enhancing Qualitative Characteristics
+When crafting your email, it's important to stick to the main topic and avoid rambling or veering off-topic. A good rule of thumb is to keep your email to 5-6 sentences or less.
 
-### Verifiability
+### 4. Use Bullet Points or Numbered Lists
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Bullet points or numbered lists help to break up long blocks of text, making your message easier to read and digest. They also help to highlight important information and make your message more memorable.
 
-### Comparability
+### 5. Use Simple and Clear Language
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Avoid using complicated jargon or technical terms that your reader may not understand. Use simple and clear language to ensure that your message is easily comprehensible to your audience.
 
-### Understandability
+### 6. Include a Call-to-Action
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+A call-to-action is a clear and direct statement that tells the recipient what you want them to do next. Whether it's to reply to your email, visit a website, or schedule a meeting, including a call-to-action helps to prompt a response and ensure that your message is not ignored.
 
----
+## Conclusion
 
-## Statement of cash flows
+In conclusion, keeping emails short and concise is crucial to writing effective and impactful messages. By following the tips outlined above, you can craft emails that engage your readers, convey your message clearly, and prompt a response. Remember, the key is to keep it simple, direct, and to the point.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+## FAQs
+<ul>
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+<li>How long should my email be?
+Aim to keep your email to 5-6 sentences or less. This ensures that your message is clear and concise, and doesn't overwhelm your reader with unnecessary information.</li>
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+<li>Is it important to use a personalized greeting?
+Yes, using a personalized greeting shows that you value the recipient as an individual, and not just another name on your mailing list. Addressing the recipient by name is ideal, but if that's not possible, try to use a general greeting that doesn't sound too impersonal.</li>
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+<li>Should I use bullet points or numbered lists</li>
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+</ul>
