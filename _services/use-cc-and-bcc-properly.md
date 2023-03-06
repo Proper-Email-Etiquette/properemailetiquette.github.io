@@ -1,7 +1,7 @@
 ---
 title: "Use CC and BCC Properly"
 date: 2018-12-28T15:14:39+10:00
-weight: 4
+weight: 3
 Meta Description: Learn the proper use of CC and BCC when sending emails to multiple recipients with etiquette. Avoid email overload, protect recipients' privacy, and communicate effectively by following these guidelines.
 ---
 
