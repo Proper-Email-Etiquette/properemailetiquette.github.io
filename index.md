@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Proper Email Etiquette
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Proper Email Etiquette. Email is an essential part of our daily communication, but are you using it correctly?
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Proper Email Etiquette
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Email is an essential part of our daily communication, but are you using it correctly? Improper email etiquette can lead to confusion, misunderstandings, and even damage your professional image. In this article, we will discuss some simple tips and techniques to help you send emails properly and effectively.
