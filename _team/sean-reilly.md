@@ -1,10 +1,9 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
-promoted: true
+title: "Sean Reilly"
+date: 2023-03-06T10:47:58+10:00
+image: "https://0.gravatar.com/avatar/b01e4a84a06477c2ed07e4dbc2242c8e"
+jobtitle: "Digital Marketing Consultant"
+linkedinurl: "https://www.linkedin.com/in/seanreillyesq/"
 weight: 1
 ---
 
